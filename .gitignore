@@ -1,0 +1,8 @@
+# Игнорировать все
+*
+
+# Разрешить только Month Plan
+!.gitignore
+!README.md
+!Month\ Plan/
+!Month\ Plan/**
